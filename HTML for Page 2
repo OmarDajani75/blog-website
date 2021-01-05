@@ -12,9 +12,9 @@
    </head>
 
 <body>
-  <span>Home &nbsp;</span>
+  <span><a href="Home.html">Home</a>&nbsp;</span>
   <span>About &nbsp;</span>
-  <span>Contact &nbsp;</span>
+  <span><a href="contact.html">Contact</a>&nbsp;</span>
   <div class="row">
    <div class='leftcolumn'>
      <div class="card">
@@ -71,6 +71,32 @@ Do I regret it? Not really. I heard some.. very “interesting” things about F
 Coming to America has made me appreciate Palestine so much more. I definitely did not even come close to hating it before, but I was not exactly the biggest fan of it either. I thought it lacked so much in comparison to America and other countries, but that mindset has now been altered. I still think it is lacking in some aspects compared to a place like America, but I appreciate it a lot more now for what it does have. I appreciate the history, the people, the food, the locations, all of this stuff that makes Palestine what it is so much more now.<br /> <br />
 There’s definitely a lot of aspects of my culture I still do not approve of, though. Examples include the views towards women, masculinity, LGBT+ matters, and pretty much any social justice related topic you can think of. Palestinians, sadly, are “backwards” when it comes to these topics, which definitely sucks. But, they are improving little by little every once in a while, so that is at least good. I do not think the Palestinian side of Jerusalem will become like San Francisco with the levels of liberty anytime soon, but I am happy that it is at least seemingly taking baby steps.. even if they seem to be very small ones. <br /> <br />
 It’s just.. so weird to me. I always viewed Palestine through such “meh” lenses, so me suddenly changing my perspective and being a lot more fond of it now is so strange. Is it nostalgia? Is it maturity? I do not know.. and I do not really care either. I am happy and content with this new resolution either way. I am glad I underwent this character development!</p>
+<h3 style="color: #33cccc;">My journal</h3>
+<div><h4 style="color: #33cccc;">December 9th, 2020</h4></div>
+<center><img src="Journal.jpeg" /></center>
+<p>At the end of my first semester of my junior year of high school, I began counseling at a local counseling center. Over time, my counselor noticed me improving little by little, and eventually suggested to me that I write in a journal as a result. Ever since, I’ve made sure to consistently write in a journal every day. <br /> <br />
+I initially started out with writing in an actual physical journal. In due time, though, I legit got too lazy and my hands always just tensed up. I write super fast and I would always exhaust myself, so I eventually decided to ditch the physical aspect and just write everything down on an all I use called Calm. <br /> <br />
+Writing in Calm was swell for a while, but then I realized the possibility of Calm shutting down in the future and all my notes disappearing. Keeping the digital aspect of the journal in-tact, I moved to the Notes app on my iPhone, iPad, and MacBook. Ever since, this is what I’ve been using. Thanks to iCloud, I doubt anything will ever happen to my daily notes, so that’s good. <br /> <br />
+As for the notes themselves, I write about the most prevalent aspects of each day. Or, at least, that’s what I used to do back when I was properly writing this stuff down on a physical journal. Now, with the infinite amount of space I have, I write about everything for each day. Legit.. everything. What I ate, what I did that was different from the day before, a new song I discovered, a new game I started playing, a new YouTube channel I began watching, just a plethora of random stuff. <br /> <br />
+This might make it so my journal has “lost value,” but nah. Detailing each day like this ensures that coming back to my journal in the future will be super fun. The more detail I put out, the more I’ll remember about each day in the future, which is cool. <br /> <br />
+I’m still writing in my journal and I don’t intend on stopping anytime soon. Think of this blog as an “extension” of my journal, in the sense that a lot of the stuff I’ve written about has been (and will continue being) stuff I’ve mentioned before. </p>
+<h3 style="color: #33cccc;">Cats</h3>
+<div><h4 style="color: #33cccc;">December 9th, 2020</h4></div>
+<center><img src="Kitties.jpeg" /></center>
+<p>For as long as I can remember, I always liked cats. It’s probably due to my mom liking them and always preferring them over dogs, but yeah. Part of the reason is also the fact that I never really interacted with dogs too much. I’ve had numerous interactions with a variety of cats, while dogs are pretty limited in that front. <br /> <br />
+Besides the stuff above, I just like cats in general. I love the way most of them look, and I love how a lot of them are aloof. Their agility and deviousness is also something I like. This next one is going to sound super weird, but I also like how cats have some sort of “regal” vibe to them. Like, no offense to people who love dogs, but I feel like cats are more.. high class.. if that makes sense? That being said, I definitely feel like a lot of dogs can be “high class” too, it just depends on their breed. I think most cats fit the bill of being royalty regardless of their breed, however. <br /> <br />
+If you thought the point of regality was weird, this one is honestly weirder. I also like cats because of their.. paws and legs. It’s hard to explain, but their limbs have such a cute design to them. It’s weird to be using that kind of language I know (as it makes sound like cats are manufactured), but I can’t deny how much I love seeing them stand on their little front legs. Their paws look so cute. <br /> <br />
+I currently have three cats. I used to have four, but one of them sadly died back at the end of my sophomore year of high school. Getting over her death was super tough, but I am okay now. Regardless, the three cats I have as of this moment are a handful anyway. I love all of the, despite saying that, and I seriously cannot imagine *not* having pets. The house would be so silent.. the cats make it so much more lively. <br /> <br />
+That’s just for my mom’s house, though. In my place in America, I don’t actually have cats. I love cats, but like any pet, they’re too much to take care of for just one person like me. Maybe if it was just one cat, but even I don’t think I would be able to manage. Kinda sad, but it’s fine! I’m content with my Mom’s cats anyway. <br /> <br />
+If you hate cats, please stop. They don’t deserve the hate. Yeah, they’d definitely eat you if you were dead for a while, but.. who cares?! They’re awesome! </p>
+
+  <section class="content2">
+  </section>
+
+  <a class="scroll-top" id="btnScrollTop">Back to Top</a>
+
+  <script src="JavaScript for blog website.js"></script>
+
 </body>
 
 <footer> <a href="Home.html">Home(page 1)</a>, <a href="page2.html">page 2</a>, <a href="page3.html">page 3</a></footer>
