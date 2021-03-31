@@ -10,10 +10,23 @@ h3 {
   display:inline-block;
   border-radius: 25px;
   border: 1px solid #33cccc
+  padding: 13px 13px 13px 20px
+}
+
+h3 {
+  background-color: #06767b
+}
+
+p {
+  background-color: #06767b
 }
 
 h1 {
   color: #33cccc
+}
+
+h1 {
+  background-color: #06767b
 }
 
 p {
@@ -30,10 +43,22 @@ h4 {
   border: 1px solid #33cccc
 }
 
+h4 {
+  background-color: #06767b
+}
+
 footer {
   text-align: center; padding: 10px; color: #33cccc
 }
 
 span {
   color: #33cccc
+}
+
+span:hover {
+  color: green
+}
+
+scroll-top {
+  color: #06767b
 }
